@@ -1,0 +1,447 @@
+Competition:
+
+  # Soccer
+  SoccerArgentinaPrimeraDivision:
+    Country: Argentina
+    Sport: Soccer
+    competition: Primera Division
+    table_id: 3753
+    active: false
+  SoccerAustraliaHyundaiALeague:
+    Country: Australia
+    Sport: Soccer
+    competition: Hyundai A-League
+    table_id: 3110
+    active: false
+  SoccerAustriatipp3Bundesliga:
+    Country: Austria
+    Sport: Soccer
+    competition: tipp3-Bundesliga
+    table_id: 3156
+    active: false
+  SoccerAustriaADEGErsteLiga:
+    Country: Austria
+    Sport: Soccer
+    competition: ADEG Erste Liga
+    table_id: 3157
+    active: false
+  SoccerBelgiumJupilerProLeague:
+    Country: Belgium
+    Sport: Soccer
+    competition: Jupiler Pro League
+    table_id: 3170
+    active: false
+  SoccerBelgiumEXQILeague:
+    Country: Belgium
+    Sport: Soccer
+    competition: EXQI League
+    table_id: 3281
+    active: false
+  SoccerBrazilCariocaTacaRioGrA:
+    Country: Brazil
+    Sport: Soccer
+    competition: Carioca Taca Rio, Gr. A
+    table_id: 3920
+    active: false
+  SoccerBrazilCariocaTacaRioGrB:
+    Country: Brazil
+    Sport: Soccer
+    competition: Carioca Taca Rio, Gr. B
+    table_id: 3921
+    active: false
+  SoccerBrazilPaulistaSerieA1:
+    Country: Brazil
+    Sport: Soccer
+    competition: Paulista Serie A1
+    table_id: 3792
+    active: false
+  SoccerBulgariaPremierLeague:
+    Country: Bulgaria
+    Sport: Soccer
+    competition: Premier League
+    table_id: 3182
+    active: false
+  SoccerChilePrimeraDivison:
+    Country: Chile
+    Sport: Soccer
+    competition: Primera Divison
+    table_id: 3824
+    active: false
+  SoccerColombiaLigaPostobonI:
+    Country: Colombia
+    Sport: Soccer
+    competition: Liga Postobon I
+    table_id: 3856
+    active: false
+  SoccerCroatia1HNL:
+    Country: Croatia
+    Sport: Soccer
+    competition: 1. HNL
+    table_id: 3160
+    active: false
+  SoccerCyprusMarfinLaikiLeague:
+    Country: Cyprus
+    Sport: Soccer
+    competition: Marfin Laiki League
+    table_id: 3248
+    active: false
+  SoccerCzechRepublicGambrinusLiga:
+    Country: CzechRepublic
+    Sport: Soccer
+    competition: Gambrinus Liga
+    table_id: 3176
+    active: false
+  SoccerDenmarkSASLigaen:
+    Country: Denmark
+    Sport: Soccer
+    competition: SAS-Ligaen
+    table_id: 3136
+    active: false
+  SoccerDenmarkViasatSportDivisionen:
+    Country: Denmark
+    Sport: Soccer
+    competition: Viasat Sport Divisionen
+    table_id: 3166
+    active: false
+  SoccerEnglandPremierLeague:
+    Country: England
+    Sport: Soccer
+    competition: Premier League
+    table_id: 3146
+    active: false
+  SoccerEnglandChampionship:
+    Country: England
+    Sport: Soccer
+    competition: Championship
+    table_id: 3148
+    active: false
+  SoccerEnglandLeagueOne:
+    Country: England
+    Sport: Soccer
+    competition: League One
+    table_id: 3149
+    active: false
+  SoccerEnglandLeagueOne:
+    Country: England
+    Sport: Soccer
+    competition: League Two
+    table_id: 3150
+    active: false
+  SoccerFranceLigue1:
+    Country: France
+    Sport: Soccer
+    competition: Ligue 1
+    table_id: 3130
+    active: false
+  SoccerFranceLigue2:
+    Country: France
+    Sport: Soccer
+    competition: Ligue 2
+    table_id: 3131
+    active: false
+  SoccerGermanyBundesliga:
+    Country: Germany
+    Sport: Soccer
+    competition: Bundesliga
+    table_id: 3193
+    active: false
+  SoccerGermany2Bundesliga:
+    Country: Germany
+    Sport: Soccer
+    competition: 2. Bundesliga
+    table_id: 3195
+    active: false
+  SoccerGreeceSuperLeague:
+    Country: Greece
+    Sport: Soccer
+    competition: Super League
+    table_id: 3214
+    active: false
+  SoccerHungaryNBILiga:
+    Country: Hungary
+    Sport: Soccer
+    competition: NBI Liga
+    table_id: 3180
+    active: false
+  SoccerInternationalWorldCupQualificationSouthAmericaCONMEBOL:
+    Country: International
+    Sport: Soccer
+    competition: World Cup Qualification, South America (CONMEBOL)
+    table_id: 1831
+    active: false
+  SoccerInternationalClubsAFCChampionsLeagueGroupA:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: AFC Champions League - Group A
+    table_id: 3733
+    active: false
+  SoccerInternationalClubsAFCChampionsLeagueGroupB:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: AFC Champions League - Group B
+    table_id: 3735
+    active: false
+  SoccerInternationalClubsAFCChampionsLeagueGroupC:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: AFC Champions League - Group C
+    table_id: 3736
+    active: false
+  SoccerInternationalClubsAFCChampionsLeagueGroupD:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: AFC Champions League - Group D
+    table_id: 3737
+    active: false
+  SoccerInternationalClubsAFCChampionsLeagueGroupE:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: AFC Champions League - Group E
+    table_id: 3738
+    active: false
+  SoccerInternationalClubsAFCChampionsLeagueGroupF:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: AFC Champions League - Group F
+    table_id: 3739
+    active: false
+  SoccerInternationalClubsAFCChampionsLeagueGroupG:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: AFC Champions League - Group G
+    table_id: 3740
+    active: false
+  SoccerInternationalClubsAFCChampionsLeagueGroupH:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: AFC Champions League - Group H
+    table_id: 3741
+    active: false
+  SoccerInternationalClubsCopaLibertadoresGroup1:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: Copa Libertadores - Group 1
+    table_id: 3869
+    active: false
+  SoccerInternationalClubsCopaLibertadoresGroup2:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: Copa Libertadores - Group 2
+    table_id: 3870
+    active: false
+  SoccerInternationalClubsCopaLibertadoresGroup3:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: Copa Libertadores - Group 3
+    table_id: 3871
+    active: false
+  SoccerInternationalClubsCopaLibertadoresGroup4:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: Copa Libertadores - Group 4
+    table_id: 3872
+    active: false
+  SoccerInternationalClubsCopaLibertadoresGroup5:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: Copa Libertadores - Group 5
+    table_id: 3873
+    active: false
+  SoccerInternationalClubsCopaLibertadoresGroup6:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: Copa Libertadores - Group 6
+    table_id: 3874
+    active: false
+  SoccerInternationalClubsCopaLibertadoresGroup7:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: Copa Libertadores - Group 7
+    table_id: 3875
+    active: false
+  SoccerInternationalClubsCopaLibertadoresGroup8:
+    Country: InternationalClubs
+    Sport: Soccer
+    competition: Copa Libertadores - Group 8
+    table_id: 3876
+    active: false
+  SoccerIsraelTotoLeague:
+    Country: Israel
+    Sport: Soccer
+    competition: Toto League
+    table_id: 3463
+    active: false
+  SoccerItalySerieA:
+    Country: Italy
+    Sport: Soccer
+    competition: Serie A
+    table_id: 3369
+    active: false
+  SoccerItalySerieB:
+    Country: Italy
+    Sport: Soccer
+    competition: Serie B
+    table_id: 3370
+    active: false
+  SoccerMexicoPrimeraDivision:
+    Country: Mexico
+    Sport: Soccer
+    competition: Primera Division
+    table_id: 3752
+    active: false
+  SoccerNetherlandsEredivisie:
+    Country: Netherlands
+    Sport: Soccer
+    competition: Eredivisie
+    table_id: 3151
+    active: false
+  SoccerNetherlandsJupilerLeague:
+    Country: Netherlands
+    Sport: Soccer
+    competition: Jupiler League
+    table_id: 3200
+    active: false
+  SoccerParaguayPrimeraDivison:
+    Country: Paraguay
+    Sport: Soccer
+    competition: Primera Divison
+    table_id: 3834
+    active: false
+  SoccerPolandEkstraklasa:
+    Country: Poland
+    Sport: Soccer
+    competition: Ekstraklasa
+    table_id: 3318
+    active: false
+  SoccerPortugalLigaSagres:
+    Country: Portugal
+    Sport: Soccer
+    competition: Liga Sagres
+    table_id: 3289
+    active: false
+  SoccerPortugalLigaVitalis:
+    Country: Portugal
+    Sport: Soccer
+    competition: Liga Vitalis
+    table_id: 3378
+    active: false
+  SoccerRomaniaLigaI:
+    Country: Romania
+    Sport: Soccer
+    competition: Liga I
+    table_id: 3338
+    active: false
+  SoccerRomaniaLiga2Seria1:
+    Country: Romania
+    Sport: Soccer
+    competition: Liga 2, Seria 1
+    table_id: 3400
+    active: false
+  SoccerRomaniaLiga2Seria2:
+    Country: Romania
+    Sport: Soccer
+    competition: Liga 2, Seria 2
+    table_id: 3401
+    active: false
+  SoccerSingaporeSLeague:
+    Country: Singapore
+    Sport: Soccer
+    competition: S League
+    table_id: 3866
+    active: false
+  SoccerScotlandPremierLeague:
+    Country: Scotland
+    Sport: Soccer
+    competition: Premier League
+    table_id: 3147
+    active: false
+  SoccerScotlandFirstDivision:
+    Country: Scotland
+    Sport: Soccer
+    competition: First Division
+    table_id: 3152
+    active: false
+  SoccerScotlandSecondDivision:
+    Country: Scotland
+    Sport: Soccer
+    competition: Second Division
+    table_id: 3153
+    active: false
+  SoccerScotlandThirdDivision:
+    Country: Scotland
+    Sport: Soccer
+    competition: Third Division
+    table_id: 3154
+    active: false
+  SoccerSerbiaJelenSuperliga:
+    Country: Serbia
+    Sport: Soccer
+    competition: Jelen Super liga
+    table_id: 3399
+    active: false
+  SoccerSlovakiaCorgonLiga:
+    Country: Slovakia
+    Sport: Soccer
+    competition: Corgon Liga
+    table_id: 3230
+    active: false
+  SoccerSloveniaPrvaLigaTelekom:
+    Country: Slovenia
+    Sport: Soccer
+    competition: PrvaLiga Telekom
+    table_id: 3163
+    active: false
+  SoccerSpainLigaBBVA:
+    Country: Spain
+    Sport: Soccer
+    competition: Liga BBVA
+    table_id: 3286
+    active: false
+  SoccerSpainLigaAdelante:
+    Country: Spain
+    Sport: Soccer
+    competition: Liga Adelante
+    table_id: 3287
+    active: false
+  SoccerSwitzerlandAxpoSuperLeague:
+    Country: Switzerland
+    Sport: Soccer
+    competition: Axpo Super League
+    table_id: 3158
+    active: false
+  SoccerSwitzerlandChallengeLeague:
+    Country: Switzerland
+    Sport: Soccer
+    competition: Challenge League
+    table_id: 3232
+    active: false
+  SoccerTurkeyTurkcellSüperLig:
+    Country: Turkey
+    Sport: Soccer
+    competition: Turkcell Süper Lig
+    table_id: 3275
+    active: false
+  SoccerUkrainePremierLeague:
+    Country: Ukraine
+    Sport: Soccer
+    competition: Premier League
+    table_id: 3155
+    active: false
+  SoccerUruguayPrimeraDivision:
+    Country: Uruguay
+    Sport: Soccer
+    competition: Primera Division
+    table_id: 3833
+    active: false
+  SoccerVenezuelaPrimeraDivison:
+    Country: Venezuela
+    Sport: Soccer
+    competition: Primera Divison
+    table_id: 3823
+    active: false
+  SoccerWalesPremierLeague:
+    Country: Wales
+    Sport: Soccer
+    competition: Premier League
+    table_id: 3181
+    active: false

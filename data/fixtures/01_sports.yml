@@ -1,0 +1,85 @@
+Sport:
+  Badminton:
+    id: 1
+    sport: Badminton
+    active: false
+  Baseball:
+    id: 2
+    sport: Baseball
+    active: false
+  Basketball:
+    id: 3
+    sport: Basketball
+    active: false
+  BeachVolley:
+    id: 4
+    sport: Beach Volley
+    active: false
+  Cycling:
+    id: 5
+    sport: Cycling
+    active: false
+  FieldHockey:
+    id: 6
+    sport: Field Hockey
+    active: false
+  Floorball:
+    id: 7
+    sport: Floorball
+    active: false
+  Football:
+    id: 8
+    sport: Football
+    active: false
+  Handball:
+    id: 9
+    sport: Handball
+    active: false
+  IceHockey:
+    id: 10
+    sport: Ice Hockey
+    active: false
+  Motorsport:
+    id: 11
+    sport: Motor sport
+    active: false
+  Rugby:
+    id: 12
+    sport: Rugby
+    active: false
+  Snooker:
+    id: 13
+    sport: Snooker
+    active: false
+  Soccer:
+    id: 14
+    sport: Soccer
+    active: true
+  Softball:
+    id: 15
+    sport: Softball
+    active: false
+  Tabletennis:
+    id: 16
+    sport: Table tennis
+    active: false
+  Tennis:
+    id: 17
+    sport: Tennis
+    active: false
+  Volleyball:
+    id: 18
+    sport: Volleyball
+    active: false
+  Waterpolo:
+    id: 19
+    sport: Waterpolo
+    active: false
+  Wintersports:
+    id: 20
+    sport: Winter sports
+    active: false
+  Futsal:
+    id: 21
+    sport: Futsal
+    active: false

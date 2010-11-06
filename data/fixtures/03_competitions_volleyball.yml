@@ -1,0 +1,27 @@
+Competition:
+
+  # Voleyball
+  VolleyballGermanyBundesliga:
+    Country: Germany
+    Sport: Volleyball
+    competition: Bundesliga
+    table_id: 3241
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  VolleyballGreeceA1:
+    Country: Greece
+    Sport: Volleyball
+    competition: A1
+    table_id: 3613
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  VolleyballItalySerieA1:
+    Country: Italy
+    Sport: Volleyball
+    competition: Serie A1
+    table_id: 3363
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null

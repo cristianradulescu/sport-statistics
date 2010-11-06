@@ -1,0 +1,35 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Fixture
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          fixture
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        id:             { label: id }
+        competition_id: { label: Compet id }
+        competition:    { label: Compet }
+        round:          { label: Rnd }
+        game:           { label: Game }
+        final_time:     { label: FT }
+        half_time:      { label: HT }
+      list:
+        display:
+          - id
+          - competition
+          - round
+          - game
+          - final_time
+          - half_time
+      filter:  ~
+      form:    ~
+      edit:    ~
+      new:     ~

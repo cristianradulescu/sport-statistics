@@ -1,0 +1,299 @@
+Competition:
+
+  # Basketball
+  BasketballFranceProA:
+    Country: France
+    Sport: Basketball
+    competition: Pro A
+    table_id: 3419
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballGermanyBekoBBL:
+    Country: Germany
+    Sport: Basketball
+    competition: Beko BBL
+    table_id: 3359
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballGreeceA1:
+    Country: Greece
+    Sport: Basketball
+    competition: A1
+    table_id: 3589
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballSpainSpagnolaACB:
+    Country: Spain
+    Sport: Basketball
+    competition: Spagnola ACB
+    table_id: 3426
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalNLBligaABA:
+    Country: International
+    Sport: Basketball
+    competition: NLB liga ABA
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupA:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group A
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupB:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group B
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupC:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group C
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupD:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group D
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupE:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group E
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupF:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group F
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupG:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group G
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupH:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group H
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupI:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group I
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupJ:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group J
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupK:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group K
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurochallengeGroupL:
+    Country: International
+    Sport: Basketball
+    competition: Eurochallenge - Group L
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupA:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group A
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupB:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group B
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupC:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group C
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupD:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group D
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupE:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group E
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupF:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group F
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupG:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group G
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupH:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group H
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupI:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group I
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupJ:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group J
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupK:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group K
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEurocupGroupL:
+    Country: International
+    Sport: Basketball
+    competition: Eurocup - Group L
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEuroleagueGroupA:
+    Country: International
+    Sport: Basketball
+    competition: Euroleague - Group A
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEuroleagueGroupB:
+    Country: International
+    Sport: Basketball
+    competition: Euroleague - Group B
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEuroleagueGroupC:
+    Country: International
+    Sport: Basketball
+    competition: Euroleague - Group C
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEuroleagueGroupD:
+    Country: International
+    Sport: Basketball
+    competition: Euroleague - Group D
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEuroleagueGroupE:
+    Country: International
+    Sport: Basketball
+    competition: Euroleague - Group E
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEuroleagueGroupF:
+    Country: International
+    Sport: Basketball
+    competition: Euroleague - Group F
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEuroleagueGroupG:
+    Country: International
+    Sport: Basketball
+    competition: Euroleague - Group G
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  BasketballInternationalEuroleagueGroupH:
+    Country: International
+    Sport: Basketball
+    competition: Euroleague - Group H
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null

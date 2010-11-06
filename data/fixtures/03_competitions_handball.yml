@@ -1,0 +1,163 @@
+Competition:
+
+  # Handball
+  HandballDenmarkGuldBagerenLigaenWomen:
+    Country: Denmark
+    Sport: Handball
+    competition: GuldBageren Ligaen Women
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballFranceD1M:
+    Country: France
+    Sport: Handball
+    competition: D1M
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballGermanyBundesliga:
+    Country: Germany
+    Sport: Handball
+    competition: Bundesliga
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballSpainLigaAsobal:
+    Country: Spain
+    Sport: Handball
+    competition: Liga Asobal
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballSwedenElitserien:
+    Country: Sweden
+    Sport: Handball
+    competition: Elitserien
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroup1:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group 1
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroup2:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group 2
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroup3:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group 3
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroup4:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group 4
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroupA:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group A
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroupB:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group B
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroupC:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group C
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroupD:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group D
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueGroupQ:
+    Country: International
+    Sport: Handball
+    competition: Champions League - Group Q
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueWomenGroup1:
+    Country: International
+    Sport: Handball
+    competition: Champions League Women - Group 1
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueWomenGroup2:
+    Country: International
+    Sport: Handball
+    competition: Champions League Women - Group 2
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueWomenGroupA:
+    Country: International
+    Sport: Handball
+    competition: Champions League Women - Group A
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueWomenGroupB:
+    Country: International
+    Sport: Handball
+    competition: Champions League Women - Group B
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueWomenGroupC:
+    Country: International
+    Sport: Handball
+    competition: Champions League Women - Group C
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  HandballInternationalChampionsLeagueWomenGroupD:
+    Country: International
+    Sport: Handball
+    competition: Champions League Women - Group D
+    table_id: null
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null

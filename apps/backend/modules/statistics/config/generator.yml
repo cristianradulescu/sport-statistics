@@ -1,0 +1,82 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Statistics
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          statistics
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        id:                    { label: id }
+        competition_id:        { label: Compet. id }
+        competition:           { label: Compet. }
+        position:              { label: Pos }
+        team:                  { label: Team }
+        total_games_played:    { label: T GP }
+        total_games_won:       { label: T GW }
+        total_games_draw:      { label: T GD }
+        total_games_lost:      { label: T GL }
+        total_goals:           { label: T goals }
+        goal_diff:             { label: Diff}
+        total_game_points_for: { label: T GPf }
+        total_points:          { label: T pt }
+        home_games_played:     { label: H GP }
+        home_games_won:        { label: H GW }
+        home_games_draw:       { label: H GD }
+        home_games_lost:       { label: H GL }
+        home_goals:            { label: H goals }
+        home_game_points_for:  { label: H GPf }
+        home_points:           { label: H pt }
+        away_games_played:     { label: A GP }
+        away_games_won:        { label: A GW }
+        away_games_draw:       { label: A GD }
+        away_games_lost:       { label: A GL }
+        away_goals:            { label: A GP }
+        away_game_points_for:  { label: A GPf }
+        away_points:           { label: A pt }
+        over:                  { label: Ov }
+        under:                 { label: Un }
+
+      list:
+        display:
+          - id
+          - competition
+          - position
+          - team
+          - total_games_played
+          - total_games_won
+          - total_games_draw
+          - total_games_lost
+          - total_goals
+          - goal_diff
+          - total_game_points_for
+          - total_points
+          - home_games_played
+          - home_games_won
+          - home_games_draw
+          - home_games_lost
+          - home_goals
+          - home_game_points_for
+          - home_points
+          - away_games_played
+          - away_games_won
+          - away_games_draw
+          - away_games_lost
+          - away_goals
+          - away_game_points_for
+          - away_points
+          - over
+          - under
+
+      filter:
+        class: false
+      form:    ~
+      edit:    ~
+      new:     ~

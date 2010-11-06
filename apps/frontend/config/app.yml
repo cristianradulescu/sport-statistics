@@ -1,0 +1,60 @@
+# default values
+all:
+  tables:
+    groups:
+      none:
+        label: ''
+        columns:
+          position: { label: '', css: pos }
+          team: { label: '', css: team }
+
+      total:
+        label: Total
+        columns:
+          total_games_played: { label: P }
+          total_games_won: { label: W }
+          total_games_lost: { label: L }
+          total_games_won_overtime: { label: WO }
+          total_games_lost_overtime: { label: LO }
+          total_games_won_afterpenalty: { label: WA }
+          total_games_lost_afterpenalty: { label: LA }
+          total_games_draw: { label: D }
+          total_goals: { label: Gls }
+          goal_diff: { label: Diff }
+          total_game_points_for: { label: Set }
+          total_points: { label: Pt, css: points }
+      home:
+        label: Home
+        columns:
+          home_games_played: { label: P }
+          home_games_won: { label: W }
+          home_games_lost: { label: L }
+          home_games_won_overtime: { label: WO }
+          home_games_lost_overtime: { label: LO }
+          home_games_won_afterpenalty: { label: WA }
+          home_games_lost_afterpenalty: { label: LA }
+          home_games_draw: { label: D }
+          home_goals: { label: Gls }
+          home_game_points_for: { label: Set }
+          home_points: { label: Pt, css: points }
+
+      away:
+        label: Away
+        columns:
+          away_games_played: { label: P }
+          away_games_won: { label: W }
+          away_games_lost: { label: L }
+          away_games_won_overtime: { label: WO }
+          away_games_lost_overtime: { label: LO }
+          away_games_won_afterpenalty: { label: WA }
+          away_games_lost_afterpenalty: { label: LA }
+          away_games_draw: { label: D }
+          away_goals: { label: Gls }
+          away_game_points_for: { label: Set }
+          away_points: { label: Pt, css: points }
+
+      2.5goals:
+        label: 2.5 Goals
+        columns:
+          over: { label: Over }
+          under: { label: Under}

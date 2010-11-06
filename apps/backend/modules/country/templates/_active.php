@@ -1,0 +1,1 @@
+<?php echo $country->getActive() ? image_tag(image_path("/sfDoctrinePlugin/images/tick.png", true)) : image_tag(image_path("/sfDoctrinePlugin/images/delete.png", true)) ?>

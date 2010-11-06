@@ -1,0 +1,84 @@
+Competition:
+
+  # Ice Hockey
+  IceHockeyAustriaErsteBankEHL:
+    Country: Austria
+    Sport: IceHockey
+    competition: Erste Bank-EHL
+    table_id: 3187
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeyCzechRepublicExtraliga:
+    Country: CzechRepublic
+    Sport: IceHockey
+    competition: Extraliga
+    table_id: 3196
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeyDenmarkALBankLigaen:
+    Country: Denmark
+    Sport: IceHockey
+    competition: AL-Bank Ligaen
+    table_id: 3215
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeyFinlandSMLiiga:
+    Country: Finland
+    Sport: IceHockey
+    competition: SM-Liiga
+    table_id: 3185
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeyGermanyDeutscheEishockeyLiga:
+    Country: Germany
+    Sport: IceHockey
+    competition: Deutsche Eishockey Liga
+    table_id: 3265
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeyNorwayGETLigaen:
+    Country: Norway
+    Sport: IceHockey
+    competition: GET-Ligaen
+    table_id: 3379
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeyRussiaKHL:
+    Country: Russia
+    Sport: IceHockey
+    competition: KHL
+    table_id: 3235
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeySlovakiaExtraliga:
+    Country: Slovakia
+    Sport: IceHockey
+    competition: Extraliga
+    table_id: 3280
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeySwedenElitserien:
+    Country: Sweden
+    Sport: IceHockey
+    competition: Elitserien
+    table_id: 3204
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+  IceHockeySwitzerlandNationalLeagueA:
+    Country: Switzerland
+    Sport: IceHockey
+    competition: National League A
+    table_id: 3205
+    active: true
+    statistics_updated_at: null
+    fixtures_updated_at: null
+

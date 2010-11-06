@@ -1,0 +1,29 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Sport
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          sport
+    with_doctrine_route:     1
+
+    config:
+      actions: ~
+      fields:
+        sport:  { label: Sport }
+
+      list:
+        title:        Sports
+        display:      [=sport, _active]
+        max_per_page: 15
+        object_actions:
+          competitions: { label: Show Competitions }
+
+      filter:
+        display: [sport, active]
+      form:    ~
+      edit:    ~
+      new:     ~

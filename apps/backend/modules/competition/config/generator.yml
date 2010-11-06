@@ -1,0 +1,37 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Competition
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          competition
+    with_doctrine_route:     1
+
+    config:
+      actions: ~
+      fields:
+        sport_id: { label: Sport }
+        country_id: { label: Country }
+
+      list:
+        title: Competitions
+        fields:
+          importance: { label: Imp }
+        table_method: retrieveBackendCompetitionList
+        display: [sport, country, =competition, importance, _active]
+        sort: country
+        batch_actions:
+          activate: ~
+          deactivate: ~
+          _delete: ~
+
+      filter:
+        display: [sport_id, country_id, competition, active]
+      form:    ~
+      edit:
+        display: [sport_id, country_id, competition, table_id, importance, active]
+      new:
+        display: [sport_id, country_id, competition, table_id, importance, active]

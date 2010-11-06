@@ -1,0 +1,177 @@
+Sport:
+  tableName: sport
+  columns:
+    sport:
+      type: string(255)
+      notnull: true
+    active:
+      type: boolean
+      default: 0
+      notnull: true
+
+Country:
+  tableName: country
+  columns:
+    country:
+      type: string(255)
+      notnull: true
+    active:
+      type: boolean
+      default: 0
+      notnull: true
+
+Competition:
+  tableName: competition
+  columns:
+    country_id:
+      type: integer
+      notnull: true
+    sport_id:
+      type: integer
+      notnull: true
+    competition:
+      type: string(255)
+      notnull: true
+    table_id:
+      type: integer(4)
+    importance:
+      type: integer(3)
+      default: 1
+    active:
+      type: boolean
+      default: 0
+      notnull: true
+    statistics_updated_at:
+      type: timestamp
+    fixtures_updated_at:
+      type: timestamp
+  relations:
+    Country:
+      onDelete: CASCADE
+      local: country_id
+      foreign: id
+    Sport:
+      onDelete: CASCADE
+      local: sport_id
+      foreign: id
+
+# TABLES
+Statistics:
+  tableName: statistics
+  actAs: 
+    Timestampable: ~
+  columns:
+    competition_id:
+      type: integer
+      notnull: true
+    position:
+      type: integer(4)
+      notnull: true
+    team:
+      type: string(255)
+      notnull: true
+    total_games_played:
+      type: integer
+    total_games_won:
+      type: integer
+    total_games_won_overtime:
+      type: integer
+    total_games_won_afterpenalty:
+      type: integer
+    total_games_draw:
+      type: integer
+    total_games_lost:
+      type: integer
+    total_games_lost_overtime:
+      type: integer
+    total_games_lost_afterpenalty:
+      type: integer
+    total_goals:
+      type: string(255)
+    goal_diff:
+      type: integer
+    total_game_points_for:
+      type: string(255)
+    total_points:
+      type: integer
+    home_games_played:
+      type: integer
+    home_games_won:
+      type: integer
+    home_games_won_overtime:
+      type: integer
+    home_games_won_afterpenalty:
+      type: integer
+    home_games_draw:
+      type: integer
+    home_games_lost:
+      type: integer
+    home_games_lost_overtime:
+      type: integer
+    home_games_lost_afterpenalty:
+      type: integer
+    home_goals:
+      type: string(255)
+    home_game_points_for:
+      type: string(255)
+    home_points:
+      type: integer
+    away_games_played:
+      type: integer
+    away_games_won:
+      type: integer
+    away_games_won_overtime:
+      type: integer
+    away_games_won_afterpenalty:
+      type: integer
+    away_games_draw:
+      type: integer
+    away_games_lost:
+      type: integer
+    away_games_lost_overtime:
+      type: integer
+    away_games_lost_afterpenalty:
+      type: integer
+    away_goals:
+      type: string(255)
+    away_game_points_for:
+      type: string(255)
+    away_points:
+      type: integer
+    over:
+      type: integer
+    under:
+      type: integer
+  relations:
+    Competition:
+      onDelete: CASCADE
+      local: competition_id
+      foreign: id
+
+# Fixtures
+Fixture:
+  tableName: fixture
+  actAs: 
+    Timestampable: ~
+  columns:
+    competition_id:
+      type: integer
+      notnull: true
+    round:
+      type: integer
+      notnull: true
+    game:
+      type: string(255)
+      notnull: true
+    final_time:
+      type: string(255)
+      notnull: true
+    half_time:
+      type: string(255)
+      notnull: true
+  relations:
+    Competition:
+      onDelete: CASCADE
+      local: competition_id
+      foreign: id
+      

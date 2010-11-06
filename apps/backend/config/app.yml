@@ -1,0 +1,165 @@
+# default values
+all:
+  betway:
+    url:         http://betway.betradar.com/statistics/betway/main.php
+    xpath_table:           '/html/body/div/table/tr/td/table/tr/td/table/tbody/tr/td/table/tbody/tr'
+    xpath_overunder:       '/html/body/div/table/tr/td/form/table/tr/td/table/tbody/tr/td/table/tbody/tr'
+    xpath_fixtures: '/html/body/div/table/tr/td/table'
+    language:  en
+
+    query_strings:
+      tables:
+        page:      guth_statistics_tablecontents
+        print:     true
+        showtype:  1
+        tabletype: 4
+      overunder:
+        page:      guth_statistics_overunder
+        print:     true
+      fixtures:
+        page:      guth_statistics_fixtures
+        print:     true
+        round:     0
+        num:       3
+
+    # parser css classes an corresponding columns
+    parser_css_classes:
+      'ov': over
+      'un': under
+
+      r: position
+      'n': team
+      lw: won
+      ll: lost
+      lpct: pct
+      gb: gb
+      e: e#
+      lw10: lw10
+      ll10: ll10
+      lstt: lstt
+      lwh: lwh
+      llh: llh
+      lwa: lwa
+      lla: lla
+
+
+      # total
+      mT:   total_games_played
+      wT:   total_games_won
+      lT:   total_games_lost
+      woT:  total_games_won_overtime
+      waP:  total_games_won_afterpenalty
+      dT:   total_games_draw
+      loT:  total_games_lost_overtime
+      laP:  total_games_lost_afterpenalty
+      gT:   total_goals
+      dfT:  goal_diff
+      gpfT: total_game_points_for
+      pT:   total_points
+      pct:  total_points
+
+      # home
+      mH:   home_games_played
+      wH:   home_games_won
+      woH:  home_games_won_overtime
+      waH:  home_games_won_afterpenalty
+      dH:   home_games_draw
+      lH:   home_games_lost
+      loH:  home_games_lost_overtime
+      laH:  home_games_lost_afterpenalty
+      gH:   home_goals
+      gpfH: home_game_points_for
+      pH:   home_points
+      pcH:  home_points
+
+      # away
+      mA:   away_games_played
+      wA:   away_games_won
+      woA:  away_games_won_overtime
+      waA:  away_games_won_afterpenalty
+      dA:   away_games_draw
+      lA:   away_games_lost
+      loA:  away_games_lost_overtime
+      laA:  away_games_lost_afterpenalty
+      gA:   away_goals
+      gpfA: away_game_points_for
+      pA:   away_points
+      pcA:  away_points
+
+
+  tables:
+    groups:
+      none:
+        label: ''
+        columns:
+          position: { label: Pos }
+          team: { label: Team }
+          won: { label: W }
+          lost: { label: L }
+          pct: { label: Pct }
+          gb: { label: GB }
+          e#: { label: E# }
+          lw10: { label: WL10 }
+          ll10: { label: LL10 }
+          lstt: { label: Streak }
+
+      total:
+        label: Total
+        columns:
+          total_games_played: { label: P }
+          total_games_won: { label: W }
+          total_games_lost: { label: L }
+          total_games_won_overtime: { label: WO }
+          total_games_lost_overtime: { label: LO }
+          total_games_won_afterpenalty: { label: WA }
+          total_games_lost_afterpenalty: { label: LA }
+          total_games_draw: { label: D }
+          total_goals: { label: Goals }
+          goal_diff: { label: Diff }
+          total_game_points_for: { label: Sets }
+          total_points: { label: Points }
+      home:
+        label: Home
+        columns:
+          home_games_played: { label: P }
+          home_games_won: { label: W }
+          home_games_lost: { label: L }
+          home_games_won_overtime: { label: WO }
+          home_games_lost_overtime: { label: LO }
+          home_games_won_afterpenalty: { label: WA }
+          home_games_lost_afterpenalty: { label: LA }
+          home_games_draw: { label: D }
+          home_goals: { label: Goals }
+          home_game_points_for: { label: Sets }
+          home_points: { label: Points }
+
+      away:
+        label: Away
+        columns:
+          away_games_played: { label: P }
+          away_games_won: { label: W }
+          away_games_lost: { label: L }
+          away_games_won_overtime: { label: WO }
+          away_games_lost_overtime: { label: LO }
+          away_games_won_afterpenalty: { label: WA }
+          away_games_lost_afterpenalty: { label: LA }
+          away_games_draw: { label: D }
+          away_goals: { label: Goals }
+          away_game_points_for: { label: Sets }
+          away_points: { label: Points }
+
+      2.5goals:
+        label: 2.5 Goals
+        columns:
+          over: { label: Over }
+          under: { label: Under}
+
+  fixtures:
+    groups:
+      none:
+        label: ''
+        columns:
+          round: { label: Round }
+          game: { label: Game }
+          final_time: { label: FT }
+          half_time: { label: HT }

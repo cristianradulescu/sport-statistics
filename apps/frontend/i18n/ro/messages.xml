@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file source-language="EN" target-language="ro" datatype="plaintext" original="messages" date="2010-05-31T01:22:23Z" product-name="messages">
+    <header/>
+    <body>
+      <trans-unit>
+        <source>Round</source>
+        <target>Etapa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Total</source>
+        <target>Total</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Home</source>
+        <target>Acasa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Away</source>
+        <target>Deplasare</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Team</source>
+        <target>Echipa</target>
+      </trans-unit>
+      <trans-unit>
+        <source>P</source>
+        <target>MJ</target>
+      </trans-unit>
+      <trans-unit>
+        <source>W</source>
+        <target>C</target>
+      </trans-unit>
+      <trans-unit>
+        <source>D</source>
+        <target>E</target>
+      </trans-unit>
+      <trans-unit>
+        <source>L</source>
+        <target>P</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Gls</source>
+        <target>Gv</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Diff</source>
+        <target>Dif</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pt</source>
+        <target>Pt</target>
+      </trans-unit>
+      <trans-unit>
+        <source>2.5 Goals</source>
+        <target>2.5 Goluri</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Over</source>
+        <target>Peste</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Under</source>
+        <target>Sub</target>
+      </trans-unit>
+      <trans-unit>
+        <source>FT</source>
+        <target>Final</target>
+      </trans-unit>
+      <trans-unit>
+        <source>HT</source>
+        <target>Pauza</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sports</source>
+        <target>Sporturi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Competitions</source>
+        <target>Competitii</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select sport</source>
+        <target>Selecteaza sport</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Select competition</source>
+        <target>Selecteaza competitia</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Argentina</source>
+        <target>Argentina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Australia</source>
+        <target>Australia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Austria</source>
+        <target>Austria</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Belgium</source>
+        <target>Belgia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Brazil</source>
+        <target>Brazilia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Bulgaria</source>
+        <target>Bulgaria</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Chile</source>
+        <target>Chile</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Colombia</source>
+        <target>Columbia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Croatia</source>
+        <target>Croatia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Cyprus</source>
+        <target>Cipru</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Czech Republic</source>
+        <target>Cehia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Denmark</source>
+        <target>Danemarca</target>
+      </trans-unit>
+      <trans-unit>
+        <source>England</source>
+        <target>Anglia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Finland</source>
+        <target>Finlanda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>France</source>
+        <target>Franta</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Germany</source>
+        <target>Germania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Greece</source>
+        <target>Grecia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Hungary</source>
+        <target>Ungaria</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Iceland</source>
+        <target>Islanda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>International</source>
+        <target>International</target>
+      </trans-unit>
+      <trans-unit>
+        <source>International Clubs</source>
+        <target>Cluburi</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Ireland</source>
+        <target>Irlanda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Israel</source>
+        <target>Israel</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Italy</source>
+        <target>Italia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Japan</source>
+        <target>Japonia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Mexico</source>
+        <target>Mexic</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Netherlands</source>
+        <target>Olanda</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Norway</source>
+        <target>Norvegia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Paraguay</source>
+        <target>Paraguay</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Poland</source>
+        <target>Polonia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Portugal</source>
+        <target>Portugalia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Romania</source>
+        <target>Romania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Russia</source>
+        <target>Rusia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Scotland</source>
+        <target>Scotia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Serbia</source>
+        <target>Serbia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Singapore</source>
+        <target>Singapore</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Slovakia</source>
+        <target>Slovacia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Slovenia</source>
+        <target>Slovenia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Spain</source>
+        <target>Spania</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Sweden</source>
+        <target>Suedia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Switzerland</source>
+        <target>Elvetia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Turkey</source>
+        <target>Turcia</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Ukraine</source>
+        <target>Ucraina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Uruguay</source>
+        <target>Uruguay</target>
+      </trans-unit>
+      <trans-unit>
+        <source>USA</source>
+        <target>SUA</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Venezuela</source>
+        <target>Venezuela</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Wales</source>
+        <target>Tara Galilor</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>1. HNL</source>
+        <target>HNL</target>
+      </trans-unit>
+      <trans-unit>
+        <source>1st Division</source>
+        <target>1st Division</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>2. Bundesliga</source>
+        <target>Bundesliga 2</target>
+      </trans-unit>
+      <trans-unit>
+        <source>A1</source>
+        <target>A1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>A1</source>
+        <target>A1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>A1</source>
+        <target>A1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Adeccoligaen</source>
+        <target>Adeccoligaen</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>ADEG Erste Liga</source>
+        <target>ADEG Erste</target>
+      </trans-unit>
+      <trans-unit>
+        <source>AFC Champions League - Group A</source>
+        <target>AFC Champions League - Grupa A</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>AFC Champions League - Group B</source>
+        <target>AFC Champions League - Grupa B</target>
+      </trans-unit>
+      <trans-unit>
+        <source>AFC Champions League - Group C</source>
+        <target>AFC Champions League - Grupa C</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>AFC Champions League - Group D</source>
+        <target>AFC Champions League - Grupa D</target>
+      </trans-unit>
+      <trans-unit>
+        <source>AFC Champions League - Group E</source>
+        <target>AFC Champions League - Grupa E</target>
+      </trans-unit>
+      <trans-unit>
+        <source>AFC Champions League - Group F</source>
+        <target>AFC Champions League - Grupa F</target>
+      </trans-unit>
+      <trans-unit>
+        <source>AFC Champions League - Group G</source>
+        <target>AFC Champions League - Grupa G</target>
+      </trans-unit>
+      <trans-unit>
+        <source>AFC Champions League - Group H</source>
+        <target>AFC Champions League - Grupa H</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>Airtricity First Division</source>
+        <target>Airtricity First</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Airtricity Premier Division</source>
+        <target>Airtricity Premier</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>AL-Bank Ligaen</source>
+        <target>AL-Bank Ligaen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Allsvenskan</source>
+        <target>Allsvenskan</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Axpo Super League</source>
+        <target>Axpo Super League</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Beko BBL</source>
+        <target>Beko BBL</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Bundesliga</source>
+        <target>Bundesliga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Bundesliga</source>
+        <target>Bundesliga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Bundesliga</source>
+        <target>Bundesliga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Challenge League</source>
+        <target>Challenge League</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Champions League - Group A</source>
+        <target>Champions League - Grupa A</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Champions League - Group B</source>
+        <target>Champions League - Grupa B</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Champions League - Group C</source>
+        <target>Champions League - Grupa C</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Champions League - Group D</source>
+        <target>Champions League - Grupa D</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Champions League Women - Group 1</source>
+        <target>Champions League Women - Grupa 1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Champions League Women - Group 2</source>
+        <target>Champions League Women - Grupa 2</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Championship</source>
+        <target>Championship</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Copa Libertadores - Group 1</source>
+        <target>Copa Libertadores - Grupa 1</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>Copa Libertadores - Group 2</source>
+        <target>Copa Libertadores - Grupa 2</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Copa Libertadores - Group 3</source>
+        <target>Copa Libertadores - Grupa 3</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Copa Libertadores - Group 4</source>
+        <target>Copa Libertadores - Grupa 4</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Copa Libertadores - Group 5</source>
+        <target>Copa Libertadores - Grupa 5</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Copa Libertadores - Group 6</source>
+        <target>Copa Libertadores - Grupa 6</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Copa Libertadores - Group 7</source>
+        <target>Copa Libertadores - Grupa 7</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Copa Libertadores - Group 8</source>
+        <target>Copa Libertadores - Grupa 8</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Corgon Liga</source>
+        <target>Corgon Liga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>D1M</source>
+        <target>D1M</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>Deutsche Eishockey Liga</source>
+        <target>DEL</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Ekstraklasa</source>
+        <target>Ekstraklasa</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Elitserien</source>
+        <target>Elitserien</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Elitserien Group 1</source>
+        <target>Elitserien Grupa 1</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Elitserien Group 2</source>
+        <target>Elitserien Grupa 2</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Eredivisie</source>
+        <target>Eredivisie</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Eurochallenge - Group I</source>
+        <target>Eurochallenge - Grupa I</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Eurochallenge - Group J</source>
+        <target>Eurochallenge - Grupa J</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Eurochallenge - Group K</source>
+        <target>Eurochallenge - Grupa K</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>Eurochallenge - Group L</source>
+        <target>Eurochallenge - Grupa L</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Euroleague - Group E</source>
+        <target>Euroleague - Grupa E</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Euroleague - Group F</source>
+        <target>Euroleague - Grupa F</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Euroleague - Group G</source>
+        <target>Euroleague - Grupa G</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Euroleague - Group H</source>
+        <target>Euroleague - Grupa H</target>
+      </trans-unit>
+      <trans-unit>
+        <source>European Championship Women 2010, Qualification Group 1</source>
+        <target>Camp. European Feminin 2010, Calificari Grupa 1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>European Championship Women 2010, Qualification Group 2</source>
+        <target>Camp. European Feminin 2010, Calificari Grupa 2</target>
+      </trans-unit>
+      <trans-unit>
+        <source>European Championship Women 2010, Qualification Group 3</source>
+        <target>Camp. European Feminin 2010, Calificari Grupa 3</target>
+      </trans-unit>
+      <trans-unit>
+        <source>European Championship Women 2010, Qualification Group 4</source>
+        <target>Camp. European Feminin 2010, Calificari Grupa 4</target>
+      </trans-unit>
+      <trans-unit>
+        <source>European Championship Women 2010, Qualification Group 5</source>
+        <target>Camp. European Feminin 2010, Calificari Grupa 5</target>
+      </trans-unit>
+      <trans-unit>
+        <source>European Championship Women 2010, Qualification Group 6</source>
+        <target>Camp. European Feminin 2010, Calificari Grupa 6</target>
+      </trans-unit>
+      <trans-unit>
+        <source>European Championship Women 2010, Qualification Group 7</source>
+        <target>Camp. European Feminin 2010, Calificari Grupa 7</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Extraliga</source>
+        <target>Extraliga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Extraliga</source>
+        <target>Extraliga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>First Division</source>
+        <target>First Division</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Gambrinus Liga</source>
+        <target>Gambrinus</target>
+      </trans-unit>
+      <trans-unit>
+        <source>GET-Ligaen</source>
+        <target>GET-Ligaen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>GuldBageren Ligaen Women Qualification Round, Gr. 1</source>
+        <target>GuldBageren Feminin Calificari, Gr. 1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>GuldBageren Ligaen Women Qualification Round, Gr. 2</source>
+        <target>GuldBageren Feminin Calificari, Gr. 2</target>
+      </trans-unit>
+      <trans-unit>
+        <source>GuldBageren Ligaen Women Relegation Round, Gr. 1</source>
+        <target>GuldBageren Feminin Retrogradari, Gr. 1</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>GuldBageren Ligaen Women Relegation Round, Gr. 2</source>
+        <target>GuldBageren Feminin Retrogradari, Gr. 2</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Hyundai A-League</source>
+        <target>Hyundai A-League</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>J.League</source>
+        <target>J.League</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Super liga</source>
+        <target>Super liga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Jupiler League</source>
+        <target>Jupiler</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Jupiler Pro League Relegation/Promotion</source>
+        <target>Jupiler Pro League Retrogradari/Promovari</target>
+      </trans-unit>
+      <trans-unit>
+        <source>KHL</source>
+        <target>KHL</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>League One</source>
+        <target>League One</target>
+      </trans-unit>
+      <trans-unit>
+        <source>League Two</source>
+        <target>League Two</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Liga 2, Seria 1</source>
+        <target>Liga 2, Seria 1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Liga 2, Seria 2</source>
+        <target>Liga 2, Seria 2</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Liga Adelante</source>
+        <target>Liga Adelante</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Liga Asobal</source>
+        <target>Liga Asobal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Liga BBVA</source>
+        <target>Liga BBVA</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Liga I</source>
+        <target>Liga I</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Liga Postobon I</source>
+        <target>Liga Postobon I</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>Liga Sagres</source>
+        <target>Liga Sagres</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Liga Vitalis</source>
+        <target>Liga Vitalis</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Ligue 1</source>
+        <target>Ligue 1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Ligue 2</source>
+        <target>Ligue 2</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Marfin Laiki League Group A</source>
+        <target>Marfin Laiki Grupa A</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Marfin Laiki League Group B</source>
+        <target>Marfin Laiki Grupa B</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Marfin Laiki League Group C</source>
+        <target>Marfin Laiki Grupa C</target>
+      </trans-unit>
+      <trans-unit>
+        <source>MLB</source>
+        <target>MLB</target>
+      </trans-unit>
+      <trans-unit>
+        <source>MLS</source>
+        <target>MLS</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>National League A</source>
+        <target>NLA</target>
+      </trans-unit>
+      <trans-unit>
+        <source>NBI Liga</source>
+        <target>NBI Liga</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>NLB liga ABA</source>
+        <target>NLB liga ABA</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Premier League</source>
+        <target>Premier League</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Premier League</source>
+        <target>Premier League</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Premier League</source>
+        <target>Premier League</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Premier League</source>
+        <target>Premier League</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Premier League</source>
+        <target>Premier League</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Premier League</source>
+        <target>Premier League</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>Primera Division</source>
+        <target>Primera Division</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Primera Division</source>
+        <target>Primera Division</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Primera Division</source>
+        <target>Primera Division</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Primera Divison</source>
+        <target>Primera Divison</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Primera Divison</source>
+        <target>Primera Divison</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Primera Divison</source>
+        <target>Primera Divison</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Pro A</source>
+        <target>Pro A</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PrvaLiga Telekom</source>
+        <target>PrvaLiga Telekom</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Qualification to Elitserien</source>
+        <target>Calificari Elitserien</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>S League</source>
+        <target>S League</target>
+      </trans-unit>
+      <trans-unit>
+        <source>SAS-Ligaen</source>
+        <target>SAS-Ligaen</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Second Division</source>
+        <target>Second Division</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Serie A</source>
+        <target>Serie A</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Serie A1</source>
+        <target>Serie A1</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Serie B</source>
+        <target>Serie B</target>
+      </trans-unit>
+      <trans-unit>
+        <source>SM-Liiga</source>
+
+        <target>SM-Liiga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Spagnola ACB</source>
+        <target>Spagnola ACB</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Super League Placement Round</source>
+        <target>Super League</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>Superettan</source>
+        <target>Superettan</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Third Division</source>
+        <target>Third Division</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>tipp3-Bundesliga</source>
+        <target>tipp3-Bundesliga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Tippeligaen</source>
+        <target>Tippeligaen</target>
+      </trans-unit>
+      <trans-unit>
+
+        <source>Toto League Playoff 1-6</source>
+        <target>Toto Playoff 1-6</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Toto League Playoff 11-16</source>
+        <target>Toto Playoff 11-16</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Toto League Playoff 7-10</source>
+        <target>Toto Playoff 7-10</target>
+      </trans-unit>
+      <trans-unit>
+        <source> Süper Lig</source>
+        <target>Super Liga</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Veikkausliiga</source>
+        <target>Veikkausliiga</target>
+
+      </trans-unit>
+      <trans-unit>
+        <source>Viasat Sport Divisionen</source>
+        <target>VS Divisionen</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Ykkonen</source>
+        <target>Ykkonen</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>WO</source>
+        <target>C(OT)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>LO</source>
+        <target>P(OT)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>LA</source>
+        <target>P(AP)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>WA</source>
+        <target>C(AP)</target>
+      </trans-unit>
+      <trans-unit>
+        <source>PA</source>
+        <target>P(AT)</target>
+      </trans-unit>
+
+      <trans-unit>
+        <source>Basketball</source>
+        <target>Baschet</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Handball</source>
+        <target>Handbal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Ice Hockey</source>
+        <target>Hochei</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Soccer</source>
+        <target>Fotbal</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Volleyball</source>
+        <target>Volei</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Landsbankadeild</source>
+        <target>Liga I</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Bosnia &amp; Herzegovina</source>
+        <target>Bosnia si Hertegovina</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Winner League</source>
+        <target>Liga I</target>
+      </trans-unit>
+
+    </body>
+  </file>
+</xliff>

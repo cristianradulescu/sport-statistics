@@ -1,0 +1,142 @@
+Country:
+  Argentina:
+    country: Argentina
+    active: false
+  Australia:
+    country: Australia
+    active: false
+  Austria:
+    country: Austria
+    active: false
+  Belgium:
+    country: Belgium
+    active: false
+  Bulgaria:
+    country: Bulgaria
+    active: false
+  Brazil:
+    country: Brazil
+    active: false
+  Chile:
+    country: Chile
+    active: false
+  Colombia:
+    country: Colombia
+    active: false
+  Croatia:
+    country: Croatia
+    active: false
+  Cyprus:
+    country: Cyprus
+    active: false
+  CzechRepublic:
+    country: Czech Republic
+    active: false
+  Denmark:
+    country: Denmark
+    active: false
+  England:
+    country: England
+    active: false
+  Finland:
+    country: Finland
+    active: false
+  France:
+    country: France
+    active: false
+  Germany:
+    country: Germany
+    active: false
+  Greece:
+    country: Greece
+    active: false
+  Hungary:
+    country: Hungary
+    active: false
+  Iceland:
+    country: Iceland
+    active: false
+  International:
+    country: International
+    active: false
+  InternationalClubs:
+    country: International Clubs
+    active: false
+  Ireland:
+    country: Ireland
+    active: false
+  Israel:
+    country: Israel
+    active: false
+  Italy:
+    country: Italy
+    active: false
+  Japan:
+    country: Japan
+    active: false
+  Mexico:
+    country: Mexico
+    active: false
+  Netherlands:
+    country: Netherlands
+    active: false
+  Norway:
+    country: Norway
+    active: false
+  Paraguay:
+    country: Paraguay
+    active: false
+  Poland:
+    country: Poland
+    active: false
+  Portugal:
+    country: Portugal
+    active: false
+  Romania:
+    country: Romania
+    active: false
+  Russia:
+    country: Russia
+    active: false
+  Scotland:
+    country: Scotland
+    active: false
+  Serbia:
+    country: Serbia
+    active: false
+  Singapore:
+    country: Singapore
+    active: false
+  Slovakia:
+    country: Slovakia
+    active: false
+  Slovenia:
+    country: Slovenia
+    active: false
+  Spain:
+    country: Spain
+    active: false
+  Sweden:
+    country: Sweden
+    active: false
+  Switzerland:
+    country: Switzerland
+    active: false
+  Turkey:
+    country: Turkey
+    active: false
+  Ukraine:
+    country: Ukraine
+    active: false
+  Uruguay:
+    country: Uruguay
+    active: false
+  USA:
+    country: USA
+    active: false
+  Venezuela:
+    country: Venezuela
+    active: false
+  Wales:
+    country: Wales
+    active: false

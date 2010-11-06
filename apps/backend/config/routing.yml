@@ -1,0 +1,56 @@
+fixture:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Fixture
+    module:               fixture
+    prefix_path:          /fixture
+    column:               id
+    with_wildcard_routes: true
+
+statistics:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Statistics
+    module:               statistics
+    prefix_path:          /statistics
+    column:               id
+    with_wildcard_routes: true
+
+competition:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Competition
+    module:               competition
+    prefix_path:          competition
+    column:               id
+    with_wildcard_routes: true
+
+country:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Country
+    module:               country
+    prefix_path:          country
+    column:               id
+    with_wildcard_routes: true
+
+sport:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Sport
+    module:               sport
+    prefix_path:          sport
+    column:               id
+    with_wildcard_routes: true
+
+# default rules
+homepage:
+  url:   /
+  param: { module: competition, action: index }
+
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*
